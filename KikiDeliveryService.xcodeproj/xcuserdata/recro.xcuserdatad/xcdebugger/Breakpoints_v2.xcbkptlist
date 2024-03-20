@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "25651A01-33FF-4EF2-9995-77C14A7C9C39"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70768393-6DB6-4EBC-AB79-8FB7073D3347"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KikiDeliveryService/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9C6888F-8555-4B77-B22D-3D5695EE789C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KikiDeliveryService/Discount.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getCouponDiscount(coupons:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9C6888F-8555-4B77-B22D-3D5695EE789C - 22d0d7c071524cf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == KikiDeliveryService.Discount&gt;.getCouponDiscount(coupons: Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;KikiDeliveryService.Discount&gt;"
+                  moduleName = "KikiDeliveryService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/recro/Desktop/KikiDeliveryService/KikiDeliveryService/Discount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "C9C6888F-8555-4B77-B22D-3D5695EE789C - 22d0d7c071524c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == KikiDeliveryService.Discount&gt;.getCouponDiscount(coupons: Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;KikiDeliveryService.Discount&gt;"
+                  moduleName = "KikiDeliveryService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/recro/Desktop/KikiDeliveryService/KikiDeliveryService/Discount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "C9C6888F-8555-4B77-B22D-3D5695EE789C - 57cf417f5ea29276"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == KikiDeliveryService.Discount&gt;.calculateDiscountAmt(cost: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "KikiDeliveryService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/recro/Desktop/KikiDeliveryService/KikiDeliveryService/Discount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "C9C6888F-8555-4B77-B22D-3D5695EE789C - 22d0d7c071524c2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == KikiDeliveryService.Discount&gt;.getCouponDiscount(coupons: Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;KikiDeliveryService.Discount&gt;"
+                  moduleName = "KikiDeliveryService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/recro/Desktop/KikiDeliveryService/KikiDeliveryService/Discount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A05442B9-CCFD-4FED-8882-3F4061008E9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KikiDeliveryService/Discount.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getCouponDiscount(coupons:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A05442B9-CCFD-4FED-8882-3F4061008E9D - 22d0d7c071524d52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == KikiDeliveryService.Discount&gt;.getCouponDiscount(coupons: Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;KikiDeliveryService.Discount&gt;"
+                  moduleName = "KikiDeliveryService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/recro/Desktop/KikiDeliveryService/KikiDeliveryService/Discount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "A05442B9-CCFD-4FED-8882-3F4061008E9D - 22d0d7c071524c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == KikiDeliveryService.Discount&gt;.getCouponDiscount(coupons: Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;KikiDeliveryService.Discount&gt;"
+                  moduleName = "KikiDeliveryService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/recro/Desktop/KikiDeliveryService/KikiDeliveryService/Discount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "A05442B9-CCFD-4FED-8882-3F4061008E9D - 22d0d7c071524c4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift.Array&lt;&#x3c4;_0_0 where &#x3c4;_0_0 == KikiDeliveryService.Discount&gt;.getCouponDiscount(coupons: Swift.Array&lt;Swift.String&gt;) -&gt; Swift.Array&lt;KikiDeliveryService.Discount&gt;"
+                  moduleName = "KikiDeliveryService"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/recro/Desktop/KikiDeliveryService/KikiDeliveryService/Discount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE7AD520-865C-4FC3-ACBA-B0568900015A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KikiDeliveryService/DeliveryPackage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "calculateDeliveryCost()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4223DD73-DB0D-46B6-8B41-C08B289F9D9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KikiDeliveryService/DeliveryPackage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "calculateDeliveryCost()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1B295CF-EC84-4E12-BF0B-801038879407"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KikiDeliveryService/TimeEstimation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "findDeliveryTimeForPackages()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

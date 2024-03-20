@@ -1,0 +1,322 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F14E10D82BA9FFF10070FD97 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E10D72BA9FFF10070FD97 /* main.swift */; };
+		F14E10DF2BAA00010070FD97 /* DeliveryPackage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E10DE2BAA00010070FD97 /* DeliveryPackage.swift */; };
+		F14E10E12BAA00190070FD97 /* Discount.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E10E02BAA00190070FD97 /* Discount.swift */; };
+		F14E10E32BAA005C0070FD97 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E10E22BAA005C0070FD97 /* Constants.swift */; };
+		F14E10E52BAA0E8A0070FD97 /* DeliveryPackages.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E10E42BAA0E8A0070FD97 /* DeliveryPackages.swift */; };
+		F14E10E72BAA1DB60070FD97 /* TimeEstimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E10E62BAA1DB60070FD97 /* TimeEstimation.swift */; };
+		F14E10E92BAA1E6D0070FD97 /* Vehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E10E82BAA1E6D0070FD97 /* Vehicle.swift */; };
+		F14E10EB2BAACFC40070FD97 /* MultiplePackages.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14E10EA2BAACFC40070FD97 /* MultiplePackages.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F14E10D22BA9FFF10070FD97 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		F14E10D42BA9FFF10070FD97 /* KikiDeliveryService */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = KikiDeliveryService; sourceTree = BUILT_PRODUCTS_DIR; };
+		F14E10D72BA9FFF10070FD97 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		F14E10DE2BAA00010070FD97 /* DeliveryPackage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeliveryPackage.swift; sourceTree = "<group>"; };
+		F14E10E02BAA00190070FD97 /* Discount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Discount.swift; sourceTree = "<group>"; };
+		F14E10E22BAA005C0070FD97 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		F14E10E42BAA0E8A0070FD97 /* DeliveryPackages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeliveryPackages.swift; sourceTree = "<group>"; };
+		F14E10E62BAA1DB60070FD97 /* TimeEstimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeEstimation.swift; sourceTree = "<group>"; };
+		F14E10E82BAA1E6D0070FD97 /* Vehicle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vehicle.swift; sourceTree = "<group>"; };
+		F14E10EA2BAACFC40070FD97 /* MultiplePackages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplePackages.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F14E10D12BA9FFF10070FD97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F14E10CB2BA9FFF10070FD97 = {
+			isa = PBXGroup;
+			children = (
+				F14E10D62BA9FFF10070FD97 /* KikiDeliveryService */,
+				F14E10D52BA9FFF10070FD97 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F14E10D52BA9FFF10070FD97 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F14E10D42BA9FFF10070FD97 /* KikiDeliveryService */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F14E10D62BA9FFF10070FD97 /* KikiDeliveryService */ = {
+			isa = PBXGroup;
+			children = (
+				F14E10D72BA9FFF10070FD97 /* main.swift */,
+				F14E10DE2BAA00010070FD97 /* DeliveryPackage.swift */,
+				F14E10E02BAA00190070FD97 /* Discount.swift */,
+				F14E10E22BAA005C0070FD97 /* Constants.swift */,
+				F14E10E42BAA0E8A0070FD97 /* DeliveryPackages.swift */,
+				F14E10E62BAA1DB60070FD97 /* TimeEstimation.swift */,
+				F14E10E82BAA1E6D0070FD97 /* Vehicle.swift */,
+				F14E10EA2BAACFC40070FD97 /* MultiplePackages.swift */,
+			);
+			path = KikiDeliveryService;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F14E10D32BA9FFF10070FD97 /* KikiDeliveryService */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F14E10DB2BA9FFF10070FD97 /* Build configuration list for PBXNativeTarget "KikiDeliveryService" */;
+			buildPhases = (
+				F14E10D02BA9FFF10070FD97 /* Sources */,
+				F14E10D12BA9FFF10070FD97 /* Frameworks */,
+				F14E10D22BA9FFF10070FD97 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KikiDeliveryService;
+			productName = KikiDeliveryService;
+			productReference = F14E10D42BA9FFF10070FD97 /* KikiDeliveryService */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F14E10CC2BA9FFF10070FD97 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					F14E10D32BA9FFF10070FD97 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = F14E10CF2BA9FFF10070FD97 /* Build configuration list for PBXProject "KikiDeliveryService" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F14E10CB2BA9FFF10070FD97;
+			productRefGroup = F14E10D52BA9FFF10070FD97 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F14E10D32BA9FFF10070FD97 /* KikiDeliveryService */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F14E10D02BA9FFF10070FD97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F14E10DF2BAA00010070FD97 /* DeliveryPackage.swift in Sources */,
+				F14E10E52BAA0E8A0070FD97 /* DeliveryPackages.swift in Sources */,
+				F14E10D82BA9FFF10070FD97 /* main.swift in Sources */,
+				F14E10E12BAA00190070FD97 /* Discount.swift in Sources */,
+				F14E10EB2BAACFC40070FD97 /* MultiplePackages.swift in Sources */,
+				F14E10E92BAA1E6D0070FD97 /* Vehicle.swift in Sources */,
+				F14E10E32BAA005C0070FD97 /* Constants.swift in Sources */,
+				F14E10E72BAA1DB60070FD97 /* TimeEstimation.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F14E10D92BA9FFF10070FD97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F14E10DA2BA9FFF10070FD97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		F14E10DC2BA9FFF10070FD97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7PSGSL2FHK;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		F14E10DD2BA9FFF10070FD97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7PSGSL2FHK;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F14E10CF2BA9FFF10070FD97 /* Build configuration list for PBXProject "KikiDeliveryService" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F14E10D92BA9FFF10070FD97 /* Debug */,
+				F14E10DA2BA9FFF10070FD97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F14E10DB2BA9FFF10070FD97 /* Build configuration list for PBXNativeTarget "KikiDeliveryService" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F14E10DC2BA9FFF10070FD97 /* Debug */,
+				F14E10DD2BA9FFF10070FD97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F14E10CC2BA9FFF10070FD97 /* Project object */;
+}
